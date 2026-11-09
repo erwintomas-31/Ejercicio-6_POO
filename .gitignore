@@ -1,0 +1,27 @@
+# ==========================
+.vscode/
+*.code-workspace
+
+# ==========================
+
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# ==========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
